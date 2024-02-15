@@ -15,7 +15,7 @@ function App() {
 {/* <RandomColor/> */}
 {/* <StarRating noOfStars={10}/> */}
 {/* image slider component */}
-<ImageSlider url={'https://picsum.photos/v2/list'} limit={'3'} page={'1'} />
+<ImageSlider url={"https://picsum.photos/v2/list"} limit={'3'} page={'1'} />
     </div>
   );
 }
